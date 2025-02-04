@@ -4,7 +4,7 @@
 This project implements a Convolutional Neural Network (CNN) for binary car image classification using TensorFlow/Keras. The model architecture is optimized for large-scale deployment while providing a demonstration version for quick evaluation.
 
 ## Demo Version
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13Vz2sKiiXK_Cc5kvVeUT9_IWbAOz1Ul6?usp=sharing)
 
 The demo notebook includes:
 - Custom CNN architecture optimized for production use
